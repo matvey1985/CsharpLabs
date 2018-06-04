@@ -1,0 +1,11 @@
+C:\Users\matvey\Desktop\тест по\lab6ver1\lab6ver1\bin\Debug\netcoreapp2.0\lab6ver1.deps.json
+C:\Users\matvey\Desktop\тест по\lab6ver1\lab6ver1\bin\Debug\netcoreapp2.0\lab6ver1.runtimeconfig.json
+C:\Users\matvey\Desktop\тест по\lab6ver1\lab6ver1\bin\Debug\netcoreapp2.0\lab6ver1.runtimeconfig.dev.json
+C:\Users\matvey\Desktop\тест по\lab6ver1\lab6ver1\bin\Debug\netcoreapp2.0\lab6ver1.dll
+C:\Users\matvey\Desktop\тест по\lab6ver1\lab6ver1\bin\Debug\netcoreapp2.0\lab6ver1.pdb
+C:\Users\matvey\Desktop\тест по\lab6ver1\lab6ver1\obj\Debug\netcoreapp2.0\lab6ver1.csprojResolveAssemblyReference.cache
+C:\Users\matvey\Desktop\тест по\lab6ver1\lab6ver1\obj\Debug\netcoreapp2.0\lab6ver1.csproj.CoreCompileInputs.cache
+C:\Users\matvey\Desktop\тест по\lab6ver1\lab6ver1\obj\Debug\netcoreapp2.0\lab6ver1.AssemblyInfoInputs.cache
+C:\Users\matvey\Desktop\тест по\lab6ver1\lab6ver1\obj\Debug\netcoreapp2.0\lab6ver1.AssemblyInfo.cs
+C:\Users\matvey\Desktop\тест по\lab6ver1\lab6ver1\obj\Debug\netcoreapp2.0\lab6ver1.dll
+C:\Users\matvey\Desktop\тест по\lab6ver1\lab6ver1\obj\Debug\netcoreapp2.0\lab6ver1.pdb
