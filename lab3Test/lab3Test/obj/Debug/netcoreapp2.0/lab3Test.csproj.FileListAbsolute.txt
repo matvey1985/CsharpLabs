@@ -1,0 +1,55 @@
+C:\Users\matvey\Desktop\тестировнаие ПО\lab3Test\lab3Test\bin\Debug\netcoreapp2.0\lab3Test.deps.json
+C:\Users\matvey\Desktop\тестировнаие ПО\lab3Test\lab3Test\bin\Debug\netcoreapp2.0\lab3Test.runtimeconfig.json
+C:\Users\matvey\Desktop\тестировнаие ПО\lab3Test\lab3Test\bin\Debug\netcoreapp2.0\lab3Test.runtimeconfig.dev.json
+C:\Users\matvey\Desktop\тестировнаие ПО\lab3Test\lab3Test\bin\Debug\netcoreapp2.0\lab3Test.dll
+C:\Users\matvey\Desktop\тестировнаие ПО\lab3Test\lab3Test\bin\Debug\netcoreapp2.0\lab3Test.pdb
+C:\Users\matvey\Desktop\тестировнаие ПО\lab3Test\lab3Test\obj\Debug\netcoreapp2.0\lab3Test.csprojResolveAssemblyReference.cache
+C:\Users\matvey\Desktop\тестировнаие ПО\lab3Test\lab3Test\obj\Debug\netcoreapp2.0\lab3Test.csproj.CoreCompileInputs.cache
+C:\Users\matvey\Desktop\тестировнаие ПО\lab3Test\lab3Test\obj\Debug\netcoreapp2.0\lab3Test.AssemblyInfoInputs.cache
+C:\Users\matvey\Desktop\тестировнаие ПО\lab3Test\lab3Test\obj\Debug\netcoreapp2.0\lab3Test.AssemblyInfo.cs
+C:\Users\matvey\Desktop\тестировнаие ПО\lab3Test\lab3Test\obj\Debug\netcoreapp2.0\lab3Test.dll
+C:\Users\matvey\Desktop\тестировнаие ПО\lab3Test\lab3Test\obj\Debug\netcoreapp2.0\lab3Test.pdb
+D:\тест по\lab3Test\lab3Test\bin\Debug\netcoreapp2.0\lab3Test.deps.json
+D:\тест по\lab3Test\lab3Test\bin\Debug\netcoreapp2.0\lab3Test.runtimeconfig.json
+D:\тест по\lab3Test\lab3Test\bin\Debug\netcoreapp2.0\lab3Test.runtimeconfig.dev.json
+D:\тест по\lab3Test\lab3Test\bin\Debug\netcoreapp2.0\lab3Test.dll
+D:\тест по\lab3Test\lab3Test\bin\Debug\netcoreapp2.0\lab3Test.pdb
+D:\тест по\lab3Test\lab3Test\obj\Debug\netcoreapp2.0\lab3Test.csprojResolveAssemblyReference.cache
+D:\тест по\lab3Test\lab3Test\obj\Debug\netcoreapp2.0\lab3Test.csproj.CoreCompileInputs.cache
+D:\тест по\lab3Test\lab3Test\obj\Debug\netcoreapp2.0\lab3Test.AssemblyInfoInputs.cache
+D:\тест по\lab3Test\lab3Test\obj\Debug\netcoreapp2.0\lab3Test.AssemblyInfo.cs
+D:\тест по\lab3Test\lab3Test\obj\Debug\netcoreapp2.0\lab3Test.dll
+D:\тест по\lab3Test\lab3Test\obj\Debug\netcoreapp2.0\lab3Test.pdb
+C:\Users\matvey\Desktop\тест по\lab3Test\lab3Test\bin\Debug\netcoreapp2.0\lab3Test.deps.json
+C:\Users\matvey\Desktop\тест по\lab3Test\lab3Test\bin\Debug\netcoreapp2.0\lab3Test.runtimeconfig.json
+C:\Users\matvey\Desktop\тест по\lab3Test\lab3Test\bin\Debug\netcoreapp2.0\lab3Test.runtimeconfig.dev.json
+C:\Users\matvey\Desktop\тест по\lab3Test\lab3Test\bin\Debug\netcoreapp2.0\lab3Test.dll
+C:\Users\matvey\Desktop\тест по\lab3Test\lab3Test\bin\Debug\netcoreapp2.0\lab3Test.pdb
+C:\Users\matvey\Desktop\тест по\lab3Test\lab3Test\obj\Debug\netcoreapp2.0\lab3Test.csprojResolveAssemblyReference.cache
+C:\Users\matvey\Desktop\тест по\lab3Test\lab3Test\obj\Debug\netcoreapp2.0\lab3Test.csproj.CoreCompileInputs.cache
+C:\Users\matvey\Desktop\тест по\lab3Test\lab3Test\obj\Debug\netcoreapp2.0\lab3Test.AssemblyInfoInputs.cache
+C:\Users\matvey\Desktop\тест по\lab3Test\lab3Test\obj\Debug\netcoreapp2.0\lab3Test.AssemblyInfo.cs
+C:\Users\matvey\Desktop\тест по\lab3Test\lab3Test\obj\Debug\netcoreapp2.0\lab3Test.dll
+C:\Users\matvey\Desktop\тест по\lab3Test\lab3Test\obj\Debug\netcoreapp2.0\lab3Test.pdb
+F:\тест по\lab3Test\lab3Test\bin\Debug\netcoreapp2.0\lab3Test.deps.json
+F:\тест по\lab3Test\lab3Test\bin\Debug\netcoreapp2.0\lab3Test.runtimeconfig.json
+F:\тест по\lab3Test\lab3Test\bin\Debug\netcoreapp2.0\lab3Test.runtimeconfig.dev.json
+F:\тест по\lab3Test\lab3Test\bin\Debug\netcoreapp2.0\lab3Test.dll
+F:\тест по\lab3Test\lab3Test\bin\Debug\netcoreapp2.0\lab3Test.pdb
+F:\тест по\lab3Test\lab3Test\obj\Debug\netcoreapp2.0\lab3Test.csprojResolveAssemblyReference.cache
+F:\тест по\lab3Test\lab3Test\obj\Debug\netcoreapp2.0\lab3Test.csproj.CoreCompileInputs.cache
+F:\тест по\lab3Test\lab3Test\obj\Debug\netcoreapp2.0\lab3Test.AssemblyInfoInputs.cache
+F:\тест по\lab3Test\lab3Test\obj\Debug\netcoreapp2.0\lab3Test.AssemblyInfo.cs
+F:\тест по\lab3Test\lab3Test\obj\Debug\netcoreapp2.0\lab3Test.dll
+F:\тест по\lab3Test\lab3Test\obj\Debug\netcoreapp2.0\lab3Test.pdb
+C:\Users\matvey\Desktop\все лабы ПО проверенные\lab3Test\lab3Test\bin\Debug\netcoreapp2.0\lab3Test.deps.json
+C:\Users\matvey\Desktop\все лабы ПО проверенные\lab3Test\lab3Test\bin\Debug\netcoreapp2.0\lab3Test.runtimeconfig.json
+C:\Users\matvey\Desktop\все лабы ПО проверенные\lab3Test\lab3Test\bin\Debug\netcoreapp2.0\lab3Test.runtimeconfig.dev.json
+C:\Users\matvey\Desktop\все лабы ПО проверенные\lab3Test\lab3Test\bin\Debug\netcoreapp2.0\lab3Test.dll
+C:\Users\matvey\Desktop\все лабы ПО проверенные\lab3Test\lab3Test\bin\Debug\netcoreapp2.0\lab3Test.pdb
+C:\Users\matvey\Desktop\все лабы ПО проверенные\lab3Test\lab3Test\obj\Debug\netcoreapp2.0\lab3Test.csprojResolveAssemblyReference.cache
+C:\Users\matvey\Desktop\все лабы ПО проверенные\lab3Test\lab3Test\obj\Debug\netcoreapp2.0\lab3Test.csproj.CoreCompileInputs.cache
+C:\Users\matvey\Desktop\все лабы ПО проверенные\lab3Test\lab3Test\obj\Debug\netcoreapp2.0\lab3Test.AssemblyInfoInputs.cache
+C:\Users\matvey\Desktop\все лабы ПО проверенные\lab3Test\lab3Test\obj\Debug\netcoreapp2.0\lab3Test.AssemblyInfo.cs
+C:\Users\matvey\Desktop\все лабы ПО проверенные\lab3Test\lab3Test\obj\Debug\netcoreapp2.0\lab3Test.dll
+C:\Users\matvey\Desktop\все лабы ПО проверенные\lab3Test\lab3Test\obj\Debug\netcoreapp2.0\lab3Test.pdb
