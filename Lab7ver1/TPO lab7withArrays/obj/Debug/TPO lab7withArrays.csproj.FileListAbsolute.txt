@@ -1,0 +1,21 @@
+C:\Users\matvey\Desktop\все сдать до июня\6 ТЕСТПО\ТПО лаба 7\TPO lab7withArrays\TPO lab7withArrays\bin\Debug\TPO lab7withArrays.exe.config
+C:\Users\matvey\Desktop\все сдать до июня\6 ТЕСТПО\ТПО лаба 7\TPO lab7withArrays\TPO lab7withArrays\bin\Debug\TPO lab7withArrays.exe
+C:\Users\matvey\Desktop\все сдать до июня\6 ТЕСТПО\ТПО лаба 7\TPO lab7withArrays\TPO lab7withArrays\bin\Debug\TPO lab7withArrays.pdb
+C:\Users\matvey\Desktop\все сдать до июня\6 ТЕСТПО\ТПО лаба 7\TPO lab7withArrays\TPO lab7withArrays\obj\Debug\TPO lab7withArrays.csprojResolveAssemblyReference.cache
+C:\Users\matvey\Desktop\все сдать до июня\6 ТЕСТПО\ТПО лаба 7\TPO lab7withArrays\TPO lab7withArrays\obj\Debug\TPO lab7withArrays.csproj.CoreCompileInputs.cache
+C:\Users\matvey\Desktop\все сдать до июня\6 ТЕСТПО\ТПО лаба 7\TPO lab7withArrays\TPO lab7withArrays\obj\Debug\TPO lab7withArrays.exe
+C:\Users\matvey\Desktop\все сдать до июня\6 ТЕСТПО\ТПО лаба 7\TPO lab7withArrays\TPO lab7withArrays\obj\Debug\TPO lab7withArrays.pdb
+C:\Users\Admin\Desktop\ТПО лаба 7\TPO lab7withArrays\TPO lab7withArrays\bin\Debug\TPO lab7withArrays.exe.config
+C:\Users\Admin\Desktop\ТПО лаба 7\TPO lab7withArrays\TPO lab7withArrays\bin\Debug\TPO lab7withArrays.exe
+C:\Users\Admin\Desktop\ТПО лаба 7\TPO lab7withArrays\TPO lab7withArrays\bin\Debug\TPO lab7withArrays.pdb
+C:\Users\Admin\Desktop\ТПО лаба 7\TPO lab7withArrays\TPO lab7withArrays\obj\Debug\TPO lab7withArrays.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\ТПО лаба 7\TPO lab7withArrays\TPO lab7withArrays\obj\Debug\TPO lab7withArrays.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ТПО лаба 7\TPO lab7withArrays\TPO lab7withArrays\obj\Debug\TPO lab7withArrays.exe
+C:\Users\Admin\Desktop\ТПО лаба 7\TPO lab7withArrays\TPO lab7withArrays\obj\Debug\TPO lab7withArrays.pdb
+C:\Users\matvey\Desktop\все лабы ПО проверенные\ТПО лаба 7 approved\TPO lab7withArrays\TPO lab7withArrays\bin\Debug\TPO lab7withArrays.exe.config
+C:\Users\matvey\Desktop\все лабы ПО проверенные\ТПО лаба 7 approved\TPO lab7withArrays\TPO lab7withArrays\bin\Debug\TPO lab7withArrays.exe
+C:\Users\matvey\Desktop\все лабы ПО проверенные\ТПО лаба 7 approved\TPO lab7withArrays\TPO lab7withArrays\bin\Debug\TPO lab7withArrays.pdb
+C:\Users\matvey\Desktop\все лабы ПО проверенные\ТПО лаба 7 approved\TPO lab7withArrays\TPO lab7withArrays\obj\Debug\TPO lab7withArrays.csprojResolveAssemblyReference.cache
+C:\Users\matvey\Desktop\все лабы ПО проверенные\ТПО лаба 7 approved\TPO lab7withArrays\TPO lab7withArrays\obj\Debug\TPO lab7withArrays.csproj.CoreCompileInputs.cache
+C:\Users\matvey\Desktop\все лабы ПО проверенные\ТПО лаба 7 approved\TPO lab7withArrays\TPO lab7withArrays\obj\Debug\TPO lab7withArrays.exe
+C:\Users\matvey\Desktop\все лабы ПО проверенные\ТПО лаба 7 approved\TPO lab7withArrays\TPO lab7withArrays\obj\Debug\TPO lab7withArrays.pdb
