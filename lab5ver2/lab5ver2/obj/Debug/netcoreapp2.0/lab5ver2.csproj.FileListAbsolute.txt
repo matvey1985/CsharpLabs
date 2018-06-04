@@ -1,0 +1,22 @@
+C:\Users\matvey\Desktop\тест по\lab5ver2\lab5ver2\lab5ver2\bin\Debug\netcoreapp2.0\lab5ver2.deps.json
+C:\Users\matvey\Desktop\тест по\lab5ver2\lab5ver2\lab5ver2\bin\Debug\netcoreapp2.0\lab5ver2.runtimeconfig.json
+C:\Users\matvey\Desktop\тест по\lab5ver2\lab5ver2\lab5ver2\bin\Debug\netcoreapp2.0\lab5ver2.runtimeconfig.dev.json
+C:\Users\matvey\Desktop\тест по\lab5ver2\lab5ver2\lab5ver2\bin\Debug\netcoreapp2.0\lab5ver2.dll
+C:\Users\matvey\Desktop\тест по\lab5ver2\lab5ver2\lab5ver2\bin\Debug\netcoreapp2.0\lab5ver2.pdb
+C:\Users\matvey\Desktop\тест по\lab5ver2\lab5ver2\lab5ver2\obj\Debug\netcoreapp2.0\lab5ver2.csprojResolveAssemblyReference.cache
+C:\Users\matvey\Desktop\тест по\lab5ver2\lab5ver2\lab5ver2\obj\Debug\netcoreapp2.0\lab5ver2.csproj.CoreCompileInputs.cache
+C:\Users\matvey\Desktop\тест по\lab5ver2\lab5ver2\lab5ver2\obj\Debug\netcoreapp2.0\lab5ver2.AssemblyInfoInputs.cache
+C:\Users\matvey\Desktop\тест по\lab5ver2\lab5ver2\lab5ver2\obj\Debug\netcoreapp2.0\lab5ver2.AssemblyInfo.cs
+C:\Users\matvey\Desktop\тест по\lab5ver2\lab5ver2\lab5ver2\obj\Debug\netcoreapp2.0\lab5ver2.dll
+C:\Users\matvey\Desktop\тест по\lab5ver2\lab5ver2\lab5ver2\obj\Debug\netcoreapp2.0\lab5ver2.pdb
+D:\lab5ver2\lab5ver2\lab5ver2\bin\Debug\netcoreapp2.0\lab5ver2.deps.json
+D:\lab5ver2\lab5ver2\lab5ver2\bin\Debug\netcoreapp2.0\lab5ver2.runtimeconfig.json
+D:\lab5ver2\lab5ver2\lab5ver2\bin\Debug\netcoreapp2.0\lab5ver2.runtimeconfig.dev.json
+D:\lab5ver2\lab5ver2\lab5ver2\bin\Debug\netcoreapp2.0\lab5ver2.dll
+D:\lab5ver2\lab5ver2\lab5ver2\bin\Debug\netcoreapp2.0\lab5ver2.pdb
+D:\lab5ver2\lab5ver2\lab5ver2\obj\Debug\netcoreapp2.0\lab5ver2.csprojResolveAssemblyReference.cache
+D:\lab5ver2\lab5ver2\lab5ver2\obj\Debug\netcoreapp2.0\lab5ver2.csproj.CoreCompileInputs.cache
+D:\lab5ver2\lab5ver2\lab5ver2\obj\Debug\netcoreapp2.0\lab5ver2.AssemblyInfoInputs.cache
+D:\lab5ver2\lab5ver2\lab5ver2\obj\Debug\netcoreapp2.0\lab5ver2.AssemblyInfo.cs
+D:\lab5ver2\lab5ver2\lab5ver2\obj\Debug\netcoreapp2.0\lab5ver2.dll
+D:\lab5ver2\lab5ver2\lab5ver2\obj\Debug\netcoreapp2.0\lab5ver2.pdb
