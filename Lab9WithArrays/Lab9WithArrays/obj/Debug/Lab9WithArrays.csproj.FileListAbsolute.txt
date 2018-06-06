@@ -1,0 +1,7 @@
+C:\Users\matvey\Desktop\все сдать до июня\6 ТЕСТПО\ТПО лаба 9\Lab9WithArrays\Lab9WithArrays\bin\Debug\Lab9WithArrays.exe.config
+C:\Users\matvey\Desktop\все сдать до июня\6 ТЕСТПО\ТПО лаба 9\Lab9WithArrays\Lab9WithArrays\bin\Debug\Lab9WithArrays.exe
+C:\Users\matvey\Desktop\все сдать до июня\6 ТЕСТПО\ТПО лаба 9\Lab9WithArrays\Lab9WithArrays\bin\Debug\Lab9WithArrays.pdb
+C:\Users\matvey\Desktop\все сдать до июня\6 ТЕСТПО\ТПО лаба 9\Lab9WithArrays\Lab9WithArrays\obj\Debug\Lab9WithArrays.csprojResolveAssemblyReference.cache
+C:\Users\matvey\Desktop\все сдать до июня\6 ТЕСТПО\ТПО лаба 9\Lab9WithArrays\Lab9WithArrays\obj\Debug\Lab9WithArrays.csproj.CoreCompileInputs.cache
+C:\Users\matvey\Desktop\все сдать до июня\6 ТЕСТПО\ТПО лаба 9\Lab9WithArrays\Lab9WithArrays\obj\Debug\Lab9WithArrays.exe
+C:\Users\matvey\Desktop\все сдать до июня\6 ТЕСТПО\ТПО лаба 9\Lab9WithArrays\Lab9WithArrays\obj\Debug\Lab9WithArrays.pdb
