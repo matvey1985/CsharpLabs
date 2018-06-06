@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\ТПО лаба 8\Lab8withLists\Lab8withLists\bin\Debug\Lab8withLists.exe.config
+C:\Users\Admin\Desktop\ТПО лаба 8\Lab8withLists\Lab8withLists\bin\Debug\Lab8withLists.exe
+C:\Users\Admin\Desktop\ТПО лаба 8\Lab8withLists\Lab8withLists\bin\Debug\Lab8withLists.pdb
+C:\Users\Admin\Desktop\ТПО лаба 8\Lab8withLists\Lab8withLists\obj\Debug\Lab8withLists.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\ТПО лаба 8\Lab8withLists\Lab8withLists\obj\Debug\Lab8withLists.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ТПО лаба 8\Lab8withLists\Lab8withLists\obj\Debug\Lab8withLists.exe
+C:\Users\Admin\Desktop\ТПО лаба 8\Lab8withLists\Lab8withLists\obj\Debug\Lab8withLists.pdb
+C:\Users\matvey\Desktop\все сдать до июня\6 ТЕСТПО\ТПО лаба 8\Lab8withLists\Lab8withLists\obj\Debug\Lab8withLists.csprojResolveAssemblyReference.cache
+C:\Users\matvey\Desktop\все сдать до июня\6 ТЕСТПО\ТПО лаба 8\Lab8withLists\Lab8withLists\obj\Debug\Lab8withLists.csproj.CoreCompileInputs.cache
+C:\Users\matvey\Desktop\все сдать до июня\6 ТЕСТПО\ТПО лаба 8\Lab8withLists\Lab8withLists\obj\Debug\Lab8withLists.exe
+C:\Users\matvey\Desktop\все сдать до июня\6 ТЕСТПО\ТПО лаба 8\Lab8withLists\Lab8withLists\obj\Debug\Lab8withLists.pdb
+C:\Users\matvey\Desktop\все сдать до июня\6 ТЕСТПО\ТПО лаба 8\Lab8withLists\Lab8withLists\bin\Debug\Lab8withLists.exe.config
+C:\Users\matvey\Desktop\все сдать до июня\6 ТЕСТПО\ТПО лаба 8\Lab8withLists\Lab8withLists\bin\Debug\Lab8withLists.exe
+C:\Users\matvey\Desktop\все сдать до июня\6 ТЕСТПО\ТПО лаба 8\Lab8withLists\Lab8withLists\bin\Debug\Lab8withLists.pdb
