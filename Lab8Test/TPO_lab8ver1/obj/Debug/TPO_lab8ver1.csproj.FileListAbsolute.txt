@@ -1,0 +1,7 @@
+C:\Users\matvey\Desktop\все сдать до июня\6 ТЕСТПО\ТПО лаба 8\TPO_lab8ver1\TPO_lab8ver1\obj\Debug\TPO_lab8ver1.csprojResolveAssemblyReference.cache
+C:\Users\matvey\Desktop\все сдать до июня\6 ТЕСТПО\ТПО лаба 8\TPO_lab8ver1\TPO_lab8ver1\obj\Debug\TPO_lab8ver1.csproj.CoreCompileInputs.cache
+C:\Users\matvey\Desktop\все сдать до июня\6 ТЕСТПО\ТПО лаба 8\TPO_lab8ver1\TPO_lab8ver1\bin\Debug\TPO_lab8ver1.exe.config
+C:\Users\matvey\Desktop\все сдать до июня\6 ТЕСТПО\ТПО лаба 8\TPO_lab8ver1\TPO_lab8ver1\bin\Debug\TPO_lab8ver1.exe
+C:\Users\matvey\Desktop\все сдать до июня\6 ТЕСТПО\ТПО лаба 8\TPO_lab8ver1\TPO_lab8ver1\bin\Debug\TPO_lab8ver1.pdb
+C:\Users\matvey\Desktop\все сдать до июня\6 ТЕСТПО\ТПО лаба 8\TPO_lab8ver1\TPO_lab8ver1\obj\Debug\TPO_lab8ver1.exe
+C:\Users\matvey\Desktop\все сдать до июня\6 ТЕСТПО\ТПО лаба 8\TPO_lab8ver1\TPO_lab8ver1\obj\Debug\TPO_lab8ver1.pdb
